@@ -29,3 +29,6 @@ Automatically compile and run C++, Python and MATLAB files. Used for the instruc
 
 # MATLAB Instructions
 * Windows: Note that matlab.exe should be in your system environment variables. To check if it is there run command window and they type matlab and enter.
+
+# TODO
+* Using `moss` to check for plagarism.
