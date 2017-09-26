@@ -6,3 +6,6 @@ Test-HW/*
 !Test-HW/*.ZIP
 !Test-HW/*.zip
 
+# moss
+moss.pl
+
